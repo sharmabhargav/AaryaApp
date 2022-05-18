@@ -1,6 +1,9 @@
 <h1 align ="center"> :information_desk_person: Aarya - Women Safety App </h1>
 <h3 align ="center"> There is no tool for development more effective than the empowerment of women.</h3>
 
+![github](https://user-images.githubusercontent.com/105602130/169027109-3bea4bbf-faa3-49da-82d5-6cd94e97e627.png)
+
+
 
 Aarya is an android app, a women safety app that allows the user to create their own safety network and take care of themselves.
 The app is about safety/awareness & makes the user safe & confident.
