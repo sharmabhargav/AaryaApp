@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902792347288",
+    "project_id": "aaryav1",
+    "storage_bucket": "aaryav1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902792347288:android:74c759602ea21b51825aed",
+        "android_client_info": {
+          "package_name": "com.aarya.aaryaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902792347288-vjkg2rh4ri2grrumt7k94iho56vdcoe4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aarya.aaryaapp",
+            "certificate_hash": "16f3a322d1797f2bac85fd8c9e970f5233200a51"
+          }
+        },
+        {
+          "client_id": "902792347288-t8fqpik80egbkce075q1v851a29a6c1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSgZfm5SIbr4wJsoEwBd-Hp1cwusgwYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902792347288-t8fqpik80egbkce075q1v851a29a6c1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
