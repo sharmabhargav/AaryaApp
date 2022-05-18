@@ -1,5 +1,5 @@
-<h1 align ="center">  Aarya - Women Safety App </h1>
-<h3 align ="center"> There is no tool for development more effective than the empowerment of women.</h3>
+<h1 align ="center">  🔱Aarya - Women Safety App </h1>
+<h3 align ="center"> There is no tool for development more effective than the empowerment of women. </h3>
 
 ![github](https://user-images.githubusercontent.com/105602130/169027109-3bea4bbf-faa3-49da-82d5-6cd94e97e627.png)
 
@@ -14,7 +14,7 @@ It is easy to use because of it's user friendly UI.
 
 ## :iphone: Salient Features:##
 
-#### :telephone_receiver: SOS Button -
+#### 🔴 SOS Button -
 Shake the phone for 2 seconds, this will send a message along with the location and a call to the registered mobile numbers.
 
 #### :telephone: Helpline Numbers -
@@ -23,6 +23,11 @@ One-click access to helpline numbers like Women in distress, Domestic abuse, Pol
 #### :bell: Siren -
 Click the siren button to play the siren and click on siren button again to stop the siren
 
+#### 🗺️: Location-
+Show nearby hospitals and police station on map
+
+#### 🤺: Defense Techniques-
+Show various self defense techniques guidelines
 </br>
 
 </br>
