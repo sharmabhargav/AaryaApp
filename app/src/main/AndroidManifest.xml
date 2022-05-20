@@ -47,7 +47,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCwbccVnyKgnk2brrPvi9BU2ylQ1-KtbBs" />
+            android:value="YOUR API KEY" />
 
         <activity
             android:name="com.aarya.aaryaapp.MapsActivity"
